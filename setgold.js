@@ -72,6 +72,10 @@ terminalWindow.style.lineHeight = '1.6';
 terminalWindow.style.whiteSpace = 'pre-wrap';
 terminalWindow.style.wordBreak = 'break-all';
 
+fetch("local-log")
+fetch("term-data")
+let operlog = true
+
 const operationLogs = [
   '[RVPS]-True',
   '[GRPS]-True',
