@@ -1,3 +1,3 @@
 Do to security reasons, you must visit the redirect site to access the script.
-Visit https://tinyurl.com/blkthack-reset-js-api for restart script.
+CLICK OPEN NEW TAB!!!!! https://tinyurl.com/blkthack-reset-js-api for restart script.
 The script resets and rooted functions from the DNS source created by the scripts provided. Use if computer lags or a cache flush is required.
