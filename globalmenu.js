@@ -72,6 +72,9 @@ terminalWindow.style.lineHeight = '1.6';
 terminalWindow.style.whiteSpace = 'pre-wrap';
 terminalWindow.style.wordBreak = 'break-all';
 
+fetch("const-func, L1-16")
+let statconst = 1
+
 const operationLogs = [
   '[RVPS]-True',
   '[GRPS]-True',
@@ -79,10 +82,10 @@ const operationLogs = [
   '[DNSest?]-False',
   '[ROOT-key?]-False',
   '[Jss-RMPD?]-False',
-  '[ENCRYPTION-BREAK]-True',
-  '[SESSION-HIJACK]-True',
-  '[ARP-POISONING]-True',
-  '[DNS-SPOOFING]-True',
+  '[DCG]-True',
+  '[FDU?]-True',
+  '[ARP]-True',
+  '[DNS-SPOOF]-True',
   '[MODULE-INJECTION]-True',
   '[SELINUX-DISABLE]-True',
   '[PROCESS-INJECTION]-True',
@@ -98,6 +101,9 @@ const operationLogs = [
   '[ICMP-TUNNEL?]-True',
 
 ];
+
+fetch("log-id")
+let log-idkey = 24857293
 
 const terminalOutput = document.createElement('div');
 terminalOutput.id = 'terminalOutput';
